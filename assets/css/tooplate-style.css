@@ -526,6 +526,10 @@ button:hover {
     min-height: 60px;
 }
 
+.img-right{
+    display: block;
+    margin-left: auto;
+}
 figure.snip1321 {
   overflow: hidden;
   text-align: center;
